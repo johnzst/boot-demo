@@ -6,4 +6,4 @@ spring:
     druid:
       username: root
       password: root
-      url: jdbc:mysql:///test
+      url: jdbc:mysql:///mydb
