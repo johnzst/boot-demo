@@ -1,0 +1,9 @@
+server:
+  port: 9001
+
+spring:
+  datasource:
+    druid:
+      username: root
+      password: root
+      url: jdbc:mysql:///test
